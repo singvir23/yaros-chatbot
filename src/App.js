@@ -93,7 +93,7 @@ function Chat() {
         {error && <p className="error-message">Error: {error}</p>}
       </div>
     </div>
-  );
+  ); //hello I love cats 
 }
 
 export default Chat;
